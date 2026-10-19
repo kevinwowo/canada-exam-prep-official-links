@@ -1,0 +1,14 @@
+{
+  "checked": "2026-10-19",
+  "site": "https://canadaexamprep.com",
+  "contact": "aitaylorfan@gmail.com",
+  "disclaimer": "Practice questions are original study material from public outlines, not official or leaked exams.",
+  "official": [
+    {"exam": "Canadian citizenship", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html", "issuer": "IRCC"},
+    {"exam": "Ontario G1", "url": "https://www.ontario.ca/document/official-mto-drivers-handbook", "issuer": "MTO / Ontario"},
+    {"exam": "CELPIP free practice", "url": "https://www.celpip.ca/prepare-for-celpip/free-practice-tests/", "issuer": "CELPIP"},
+    {"exam": "ICBC licensing", "url": "https://www.icbc.com/driver-licensing/getting-licensed", "issuer": "ICBC"},
+    {"exam": "Alberta driver's guide", "url": "https://www.alberta.ca/drivers-guide", "issuer": "Alberta"},
+    {"exam": "SAAQ licences", "url": "https://saaq.gouv.qc.ca/en/drivers-licences", "issuer": "SAAQ"}
+  ]
+}
